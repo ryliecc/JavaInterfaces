@@ -1,2 +1,6 @@
-public class VideoPlayer {
+public class VideoPlayer implements Playable{
+    @Override
+    public void play() {
+
+    }
 }
